@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RtfPipe-Signed</id>
+    <version>0.7.0.2</version>
+    <title>RtfPipe Signed</title>
+    <authors>Eric Domke, Serafin Roberto</authors>
+    <owners>Serafin Roberto</owners>
+    <projectUrl>https://github.com/Sbaia/RtfPipe</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RtfPipe with signature</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>RtfToHtml RichTextFileToHtml</tags>
+  </metadata>
+  <files>
+	  <file src="bin\Release\RtfPipe.Portable.dll" target="lib" />
+  </files>
+</package>
