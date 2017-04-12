@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>RtfPipe-Signed</id>
-    <version>0.7.0.2</version>
+    <version>0.7.0.3</version>
     <title>RtfPipe Signed</title>
     <authors>Eric Domke, Serafin Roberto</authors>
     <owners>Serafin Roberto</owners>
@@ -13,6 +13,6 @@
     <tags>RtfToHtml RichTextFileToHtml</tags>
   </metadata>
   <files>
-	  <file src="bin\Release\RtfPipe.Portable.dll" target="lib" />
+	  <file src="bin\Release\RtfPipe.dll" target="lib" />
   </files>
 </package>
